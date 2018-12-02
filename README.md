@@ -1,2 +1,4 @@
-# ksp
-JS rock, scissor, paper game
+# KSP
+Extremely simple rock, scissor, paper game.
+
+The codes are located in index.html for simplicity.
